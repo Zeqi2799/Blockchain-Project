@@ -1,11 +1,11 @@
 ## Code Overview
-- fetch_data.py 
+- **`fetch_data.py`**  
   Fetches liquidity pool data from Uniswap V3 using The Graph API, including token pairs, fee tiers, and creation timestamps. Saves the result as `pools_information.csv`.
   
-- clean_data.py
+- **`clean_data.py`**  
   Cleans and filters the raw data by removing missing values and selecting pools created between March 2024 and April 2025. Outputs the cleaned dataset as `cleaned_pools.csv`.
   
-- figures.py 
+- **`figures.py`** 
   Analyzes and visualizes the cleaned data. Generates plots showing the monthly number of new pools, the top 10 most frequent token pairs, and the distribution of fee tiers.
 
 
