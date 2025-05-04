@@ -12,8 +12,8 @@
 ## Team Contribution
 Each team member completed 1/3 of the total project workload. The general contents are:
 
-- Yuhui Jiao: Stated the main goals and steps of the project. Organized the relevant concepts of Uniswap V3 and explained key functions and core events in the Factory Contract.
+- Yuhui Jiao: Organized the relevant concepts of Uniswap V3 and explained key functions and core events in the Factory Contract. Wrote Python scripts to clean liquidity pool data.
   
 - Zeqi Chen: Wrote Python scripts to query liquidity pool data, collected and processed raw data from The Graph, and analyzed and summarized liquidity trends over the past year.
   
-- Yuchen Zheng: Wrote Python scripts to clean liquidity pool data and used LLM to forecast transaction trends for April 2025. Also formatted and organized the final report.
+- Yuchen Zheng: Stated the main goals and steps of the project and used LLM to forecast transaction trends for April 2025. Also formatted and organized the final report.
